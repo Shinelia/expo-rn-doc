@@ -18,10 +18,11 @@
 
 For more information :
 
-- [Fastlane](https://docs.fastlane.tools/) - Fastlane documentation - a tool to automate the release process for iOS and Android apps, used in our app V1 and under the hood by Expo and EAS
+- [Fastlane](https://docs.fastlane.tools/) - A tool to automate the release process for iOS and Android apps, used in our app V1 and under the hood by Expo and EAS
 
 ## Bonus
 
 - [Reactotron](https://docs.infinite.red/reactotron/) - A desktop app for inspecting React Native apps, including network requests, Redux state, and more
+- [Expo Orbit](https://expo.dev/orbit) - One-click build launches and simulator management
 
-_Last updated: May 9, 2025_
+_Last updated: May 14, 2025_
